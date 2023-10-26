@@ -1,0 +1,19 @@
+[
+    {
+        "city":"Paris",
+        "country":"France",
+        "lastUpdated":"2023-10-26 05:00",
+        "tempC":11,"tempF":51.8,
+        "feelsLikeC":10.3,
+        "feelsLikeF":50.6,
+        "windKph":6.8,
+        "windMph":4.3,
+        "humidity":100,
+        "uv":1,
+        "condition":
+        {
+            "text":"Moderate rain",
+            "icon":"https://cdn.weatherapi.com/weather/128x128/night/302.png",
+        }
+    }
+]
